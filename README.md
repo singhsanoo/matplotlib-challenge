@@ -17,11 +17,11 @@
 
 ### Prepared the Data
 
-1. Run the provided package dependency and data imports, and then merge the `mouse_metadata` and `study_results` DataFrames into a single DataFrame.
+1. Ran the provided package dependency and data imports, and then merged the `mouse_metadata` and `study_results` DataFrames into a single DataFrame.
 
-2. Display the number of unique mice IDs in the data, and then check for any mouse ID with duplicate time points. Display the data associated with that mouse ID, and then create a new DataFrame where this data is removed. Use this cleaned DataFrame for the remaining step. (Note: you found a mouse ID that had duplicate time points, and none of the data associated with that mouse ID should be included in the new DataFrame.)
+2. Displayed the number of unique mice IDs in the data, and then checked for any mouse ID with duplicate time points. Displayed the data associated with that mouse ID, and then created a new DataFrame where this data is removed. Used this cleaned DataFrame for the remaining step. 
 
-3. Display the updated number of unique mice IDs.
+3. Displayed the updated number of unique mice IDs.
 
 ### Summary Statistics
 
